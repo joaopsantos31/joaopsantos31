@@ -1,5 +1,8 @@
-## Hi there 👋
+## Bem-vindo ao meu perfil! 
 
+Eu sou o João Pedro
+🎓 Estudante de Ciências da Computação
+💻 Técnico em Informática
 <!--
 
 

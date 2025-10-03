@@ -1,10 +1,9 @@
 ## Sobre Mim 👨‍💻
 
-🎓 Estudante de Ciências da Computação
-💻 Apaixonado por programação e tech
-🎯 Entusiasta de Hackathons
-🚀 Buscando evoluir e criar projetos
+🎓 Estudante de Ciências da Computação </br>
+💻 Apaixonado por programação e tech </br>
+🎯 Entusiasta de Hackathons </br>
+🚀 Buscando evoluir e criar projetos </br>
 
 
-![GitHub followers](https://img.shields.io/github/followers/seuusuario?style=social)
   

@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu perfil! 
 
-Eu sou o João Pedro
+Eu sou o João Pedro </br>
 🎓 Estudante de Ciências da Computação
 💻 Técnico em Informática
 <!--
